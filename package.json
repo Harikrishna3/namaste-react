@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "\"git\""
+    "url": "git+https://github.com/Harikrishna3/namaste-react.git"
   },
   "author": "Harikrishna Bomen",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
 }
